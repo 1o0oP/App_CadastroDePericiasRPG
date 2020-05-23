@@ -1,0 +1,8 @@
+
+ >>> Desafio
+
+ Criar uma web application que, através de uma página de cara, colete informações de um usuário relativo as perícias do sistema de rpg LOOP, e vá armazenando as informações em um banco de dados, escrito com SQL. Além disso, na página, deve haver uma área onde o usuário poderá consultar as perícias, filtrando por propriedades, com opções de ordenar e tudo mais.
+
+ O front-end deve ser construído com JQuery, e o Back-end, deve ser construído com C# e ASP.NET. Quando as requisições forem feitas, o backend deve conectar com a base de dados, extrair as informações pedidas pelo usuário, convertê-la em JSON, e enviar para o cliente. Chegando as informações, o JavaScript deve converter o JSON em um objeto, e manipular o objeto para apresentar os resultados na página.
+
+ Obs: Use bootstrap para criar uma página padronizada, com formulários e tabelas elegantes.

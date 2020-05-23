@@ -1,0 +1,2 @@
+# Web Application: Coleta de Perícias
+Esta é uma aplicação de uma página, que comunica usuários com servidor, permitindo que o usuário cadastre parícias em um banco de dados, e consulte as perícias cadastradas, podendo fazer uso de diversos recursos de filtro e listagem.
